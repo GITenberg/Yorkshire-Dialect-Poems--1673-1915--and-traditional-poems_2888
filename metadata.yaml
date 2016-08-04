@@ -1,0 +1,34 @@
+_repo: Yorkshire-Dialect-Poems--1673-1915--and-traditional-poems_2888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moorman, F. W. (Frederic William)
+    aliases:
+    - Moorman, Frederick William
+    - Moorman, F. William
+    - Moorman, Frederic William
+    birthdate: 1872
+    deathdate: 1919
+    gutenberg_agent_id: '1062'
+    url: http://www.gutenberg.org/2009/agents/1062
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- England -- Yorkshire'
+- !lcsh 'Yorkshire (England) -- Languages -- History -- Sources'
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+- !lcc 'PR'
+- !lcsh 'English language -- Dialects -- England -- Yorkshire'
+- !lcsh 'English poetry -- England -- Yorkshire'
+- !lcsh 'Yorkshire (England) -- Poetry'
+- GITenberg
+title: Yorkshire Dialect Poems (1673-1915) and traditional poems
+url: http://www.gutenberg.org/ebooks/2888
